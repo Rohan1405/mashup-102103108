@@ -1,0 +1,7 @@
+.DS_Store
+PipFile
+*.mp3
+*.zip
+Video Files/
+__pycache__/
+venv/
